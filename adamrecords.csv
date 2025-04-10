@@ -1,0 +1,4 @@
+referral_id,patient_id,current_department,referred_department,reason,referred_by,notes,timestamp,specialist_available
+REF000001,PAT12345,General Medicine,Cardiology,Chest pain,DOC23456,needs urgent ECG,2025-03-13 17:38:26,True
+REF000002,PAT123455,Neurology,General Medicine,condition is better,DOC34567,Keep it under obervation,2025-03-14 22:15:09,False
+REF000003,PAT12345,General Medicine,Neurology,Suffering from very danger zone,DOC12346,keep it on obersarvation,2025-03-17 18:42:05,True
